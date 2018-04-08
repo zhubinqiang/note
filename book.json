@@ -1,0 +1,15 @@
+{
+    "language": "zh-hans",
+    "plugins": [
+        "-sharing",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "katex",
+        "todo",
+        "atoc",
+        "new-flowchart",
+        "betterchinese",
+        "anchors"
+    ]
+}
